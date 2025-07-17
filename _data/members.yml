@@ -1,0 +1,16 @@
+# - name: # full name
+#   department: 
+#   github: # username
+#   ucl: # ucl profile
+#   linux_role: -- # role on OSPO
+- name: David Pérez-Suárez
+  department: ARC
+  github: dpshelio
+  ucl: 48821-david-pérezsuárez
+  linux_role: webmaster
+- name: Janina Dewitz
+  department: DigiEd
+  #github: 
+  #ucl: 59377-jonathan-cooper
+  linux_role:
+  
