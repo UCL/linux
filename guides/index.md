@@ -18,3 +18,4 @@ Meanwhile, visit the resources available at:
 
 ## General guides 
 - [Is it really Free and Open Source Software](https://isitreallyfoss.com/)
+- [Universities that support Linux](./other-uni-linux.html)
