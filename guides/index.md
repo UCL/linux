@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Guides
+permalink: /guides/
+crumbs:
+  - link: "/guides/"
+    text: "Guides"
 ---
 
 # Guides
