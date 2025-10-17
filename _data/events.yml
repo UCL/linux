@@ -11,6 +11,15 @@
 #   location: address
 #   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
 - title: Linux Install Party
+  organiser: ARC / DigiEd
+  url: https://pretix.eu/ARC/linux-install-party-2510
+  summary: A Linux install party is both, a place for newcomers who want a taste of Linux or help with installations, and a place for Linux enthusiasts who want to experiment with new distros or help the newcomers in choosing their first distro. 
+  date: 2025-10-29
+  time: "16:00"
+  duration:
+    hours: 3
+  location: IOE, Bedford Way 20 - Room C3.13
+- title: Linux Install Party
   organiser: TechSocial / ARC
   url: https://pretix.eu/ARC/techsocials-2503/
   post_url: https://www.ucl.ac.uk/advanced-research-computing/techsocial-series-march-2025-0
