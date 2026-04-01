@@ -10,6 +10,15 @@
 #     hours: y 
 #   location: address
 #   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
+- title: April User Group Meetup
+  organiser: UCL LUG
+  url: N/A
+  summary: Our monthly LUG meetup, conveniently tagged onto the UCL Education Conference! Being an Edu Conf bonus event of sorts, the event will be half community contributed talks/demos and half our usual meetup format of Linux installs, Q&A and casual conversations. 
+  date: 2026-04-15
+  time: "16:30"
+  duration:
+    hours: 2.5
+  location: IOE, 20 Bedford Way - Room C3.09
 - title: Linux Install Party
   organiser: ARC / DigiEd
   url: https://pretix.eu/ARC/linux-install-party-2511
