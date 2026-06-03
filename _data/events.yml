@@ -13,14 +13,13 @@
 - title: Free & Open Source Software Social
   organiser: ARC / DigiEd / Slade Art+Tech Research Lab
   url: https://pretix.eu/ARC/byos/
-  summary:  A summer meetup at UCL East in collaboration with our friends from the Slade Art+Tech Research Lab at UCL East, where the floor is yours if you would be able to present or demo something
-open-source related.
+  summary: A summer meetup at UCL East in collaboration with our friends from the Slade Art+Tech Research Lab at UCL East, where the floor is yours if you would be able to present or demo something open-source related.
   date: 2026-06-10
-  time: "15:00M"
+  time: "15:00"
   duration: 
     hours: 2
   location: Slade Studio, UCL East, Pool St building
-  location_url: https://www.openstreetmap.org/?mlat=51.539109&mlon=-0.008594&zoom=16 # https://www.latlong.net/
+  location_url: https://www.openstreetmap.org/?mlat=51.539109&mlon=-0.008594&zoom=16
 - title: April User Group Meetup
   organiser: UCL LUG
   url: N/A
